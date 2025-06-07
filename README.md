@@ -13,7 +13,7 @@ This is a real-time two-player chess game built using **Node.js**, **Socket.IO**
 - Responsive and visually appealing chessboard with Tailwind CSS
 
 
-<img src="screenshots/game.png" width="500" alt="Chess Game Screenshot" />
+
 
 ## 🛠️ Tech Stack
 
